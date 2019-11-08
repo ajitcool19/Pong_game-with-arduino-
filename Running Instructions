@@ -1,0 +1,7 @@
+1)Install processing from www.processing.org
+2)Install arduinocc
+3)Open processing and arduino sketches on respective ide's 
+4)Connect LDR to A0 of Arduino and make rest of necessary voltage and ground connections a 100kohm resistor is also recommended.
+5)Upload arduino code
+6)Run processing code.
+7)Enjoy the game
